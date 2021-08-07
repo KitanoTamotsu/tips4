@@ -22,9 +22,12 @@ Mighty Optical Illusion のおまかせページを翻訳する
    https://www.moillusions.com/?random にアクセスすれば、次からは簡単にアクセスできるようになるし。。。
 ```
 
-参考：
-
+<br>参考：
+<br>
   [マイティ・オプティカル・イリュージョン](https://www.moillusions.com)
-  
+<br>  
   [Lessson9.ブラウザからURLを取得する](https://github.com/KitanoTamotsu/translate)
+
+<br>
+[トップページに戻る](https://kitanotamotsu.github.io/)
 
