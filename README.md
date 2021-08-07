@@ -1,5 +1,6 @@
-## Mighty Optical Illusion のおまかせページを翻訳する
-<pre>
+Mighty Optical Illusion のおまかせページを翻訳する
+
+```
 前提：
  Alfred.appのインストール
  Mighty Optical Illusion が好きなこと
@@ -19,8 +20,8 @@
  　錯視を集めたサイトなので、翻訳はいらないかもしれませんね
  　単に見るだけであれば、AlfredはURLアクセス履歴を検索対象にできるので、
    https://www.moillusions.com/?random にアクセスすれば、次からは簡単にアクセスできるようになるし。。。
+```
 
-</pre>
 参考：
 
   [マイティ・オプティカル・イリュージョン](https://www.moillusions.com)
