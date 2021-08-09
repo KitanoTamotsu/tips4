@@ -27,7 +27,7 @@ Mighty Optical Illusion のおまかせページを翻訳する
 <br>
   [マイティ・オプティカル・イリュージョン](https://www.moillusions.com)
 <br>  
-  [Lessson9.ブラウザからURLを取得する](https://github.com/KitanoTamotsu/translate)
+  [Lessson9.ブラウザからURLを取得する](https://kitanotamotsu.github.io/translate)
 
 <br><br><br>
 [トップページに戻る](https://kitanotamotsu.github.io/)
