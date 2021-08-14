@@ -12,7 +12,8 @@ Mighty Optical Illusion のおまかせページを翻訳する
   
   FeaturesのWeb Searchタブの右下にあるAdd Custom Searchをクリックして
   下記のアドレスをSearch URLに登録
-  https://translate.google.com/translate?sl=en&tl=ja&u=https://www.moillusions.com/?random
+  https://translate.google.com/translate?sl=en&tl=ja&u=
+  https://www.moillusions.com/?random
   
 　『moi』など起動させるキーワードを決めて保存して、
  　はいできあがりです
@@ -24,11 +25,8 @@ Mighty Optical Illusion のおまかせページを翻訳する
 ```
 
 <br>参考：
-<br>
-  [マイティ・オプティカル・イリュージョン](https://www.moillusions.com)
-<br>  
-  [Lessson9.ブラウザからURLを取得する](https://kitanotamotsu.github.io/translate)
-
+<br>[マイティ・オプティカル・イリュージョン](https://www.moillusions.com)
+<br>[Lessson9.ブラウザからURLを取得する](https://kitanotamotsu.github.io/translate)
 <br><br><br>
 [トップページに戻る](https://kitanotamotsu.github.io/)
 
